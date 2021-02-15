@@ -1,0 +1,7 @@
+main>section:nth-child(even) {
+    background-color: #fff;
+}
+
+main>section:nth-child(odd) {
+    background-color: #fafbfc;
+}
